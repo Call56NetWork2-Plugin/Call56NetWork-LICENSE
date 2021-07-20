@@ -10,5 +10,5 @@ Issuesは[こちら](https://docs.github.com/en/issues/tracking-your-work-with-i
 Issuesを作るには、Githubのアカウントが必要です。
 Githubのサイトを開いたときに、右上の[Sign Up](https://github.com/)を押してアカウントを作成できます。
 
-もし、GitHub アカウントを持っていないときや Issue を立てられない場合は、不具合センターに申請するか、Discordの運営質問などで受け付けております。
+もし、GitHub アカウントを持っていないときや**Issue**を立てられない場合は、**不具合センター**に申請するか**Discord**の運営質問などで受け付けております。
 
