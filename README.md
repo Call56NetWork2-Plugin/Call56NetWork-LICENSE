@@ -1,5 +1,5 @@
 # Call56NetWork2
-Call56 Server Issue Tracker
+Call56 Server Issue Idea List
 
 # ここは？
 Issuesを使って、意見や不具合を報告してほしいです！
